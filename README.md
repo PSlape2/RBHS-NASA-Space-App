@@ -13,7 +13,7 @@ See Video [here.](https://www.youtube.com/watch?v=xdDqAAhp0p4)
 
 ## Impact
 
-PlanetGeneis solves the Titan City Challenge by providing a 3D interface of the planets in our solar system with comprehensive information about settling on the planet. In other words, it is a living Britannica for space enthusiasts to discover the habitat concepts and challenges to survive on other planets. This application encourages interdisciplinary learning as the knowledge of Physics, Biology, Environmental Science, and Engineering are used in conjunction with astronomy to construct the Habitat.
+PlanetGenesis solves the Titan City Challenge by providing a 3D interface of the planets in our solar system with comprehensive information about settling on the planet. In other words, it is a living Britannica for space enthusiasts to discover the habitat concepts and challenges to survive on other planets. This application encourages interdisciplinary learning as the knowledge of Physics, Biology, Environmental Science, and Engineering are used in conjunction with astronomy to construct the Habitat.
 
 ## Future Implementation
 Currently, we cannot say that the application is fully completed. Given the time limitation, we are unable to fully implement the random planet generator which would allow users to access the random planet button in the application and generate random planets in G, K, F, and M star types given random variables of
